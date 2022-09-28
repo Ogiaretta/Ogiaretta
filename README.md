@@ -11,7 +11,7 @@
   <img align="center" alt="Ogiaretta" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Ogiaretta" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"         
-       src="https://github.com/Ogiaretta/Ogiaretta/blob/main/octocat-1664391190672.png">
+       src="https://github.com/Ogiaretta/Ogiaretta/blob/main/.github/workflows/octocat-1664391190672.png">
 </div>
     
   ##
