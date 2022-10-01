@@ -1,6 +1,6 @@
 ### Hi, I am Eduardo Giaretta, and ...👋
 
-- 🔭 Iniciando estudo em Flutter e Dart no momento;
+- 🔭 Starting to study Flutter and Dart at the moment;
 
 <div align="center">
   <a href="https://beacons.ai/ogiaretta">
